@@ -47,5 +47,5 @@ Please replace the telegram token variable value with your own telegram token
 
 * Through Terminal
 ```
-python chatbot.py
+python echobot.py
 ```
